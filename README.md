@@ -1,6 +1,17 @@
-<h2 align="center">Initialize</h2>
+<div align="center">
+  
 
-###
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  
+### Tech Stack
+
+</div>
+
+<div align="center">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -58,13 +69,52 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
+---
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=wignn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wignn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=wignn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-  <img src="https://github-profile-trophy.vercel.app?username=wignn&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> 
+
+### GitHub Statistics
+
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wignn&theme=dracula)](https://git.io/streak-stats)
 </div>
 
-###
+<div align="center">
+
+### Contribution Streak & Achievements
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=wignn&theme=dracula&hide_border=true&background=282A36" height="200" alt="streak graph" />
+
+<img src="https://github-profile-trophy.vercel.app?username=wignn&theme=dracula&column=4&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=false" height="180" alt="trophy graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wignn&theme=dracula&hide_border=false&border_radius=10" alt="activity graph" />
+
+</div>
+
+---
+
+<!-- <div align="center">
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wignn)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wignn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<img src="https://komarev.com/ghpvc/?username=wignn&style=for-the-badge&color=blueviolet" alt="profile views" /> -->
+
+---
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
