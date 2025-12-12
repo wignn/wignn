@@ -84,7 +84,7 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=wignn&theme=dracula&hide_border=true&background=282A36" height="200" alt="streak graph" />
 
-<img src="https://github-profile-trophy.vercel.app?username=wignn&theme=dracula&column=4&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=false" height="180" alt="trophy graph" />
+[![trophy](https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
