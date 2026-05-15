@@ -19,6 +19,7 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@v3.2.5
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PACMAN_GITHUB_TOKEN || github.token }}
 
       - name: Commit and push generated SVGs
         run: |

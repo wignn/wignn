@@ -31,8 +31,6 @@
   <img alt="Pacman contribution graph generated from wignn's GitHub contributions" src="https://raw.githubusercontent.com/wignn/wignn/main/dist/pacman-contribution-graph.svg">
 </picture>
 
-This Pacman graph is generated from the repository owner's GitHub contribution graph through the scheduled workflow in `.github/workflows/pacman.yml`.
-
 ---
 
 ### GitHub Stats
