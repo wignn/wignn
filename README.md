@@ -17,12 +17,10 @@
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,rust,python,cpp,c,docker,kubernetes,postgres,mongodb,redis,kafka,graphql,tailwind,git,linux,prometheus,grafana&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,electron,express,jest,nestjs,svelte,nodejs,go,rust,tauri,python,cpp,c,cs,docker,kubernetes,postgres,mongodb,cassandra,redis,kafka,graphql,tailwind,react,flutter,firebase,bun,git,githubactions,cmake,linux,prometheus,aws,gcp,azure,figma,grafana&perline=20" alt="Tech stack" />
 </p>
 
-<p>
-  Redis · Kafka · NATS · gRPC · GraphQL · k6 · Docker · Kubernetes · PostgreSQL · MongoDB · Prometheus · Grafana
-</p>
+
 
 ---
 
