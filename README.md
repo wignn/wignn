@@ -45,9 +45,7 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wignn&theme=github_dark" alt="Most committed languages" />
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wignn&theme=github-dark&hide_border=true&radius=8" alt="GitHub activity graph" />
-</p>
+
 
 ---
 
